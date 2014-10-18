@@ -16,7 +16,7 @@ Entry point
 /index.php
 
 Db Config
-------------
+---------
 <a href="https://github.com/pavlinter/testwork2/blob/master/common/config/main.php">common/config/main.php</a>
 <pre>
 'db' => [
